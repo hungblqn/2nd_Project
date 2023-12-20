@@ -1,5 +1,6 @@
 # 2nd_Project
-Project Unity thứ 2 mà tôi làm
+Project Unity thứ 2 mà tôi làm <br />
+demo youtube: https://www.youtube.com/watch?v=W8jTE9bCq6M
 ![image](https://github.com/hungblqn/2nd_Project/assets/77875957/6a779e1a-76ce-4921-ad18-ba9e1b5bc442)
 
 ![image](https://github.com/hungblqn/2nd_Project/assets/77875957/414e30a6-9ab8-4201-92cc-ac0aa7602905)
